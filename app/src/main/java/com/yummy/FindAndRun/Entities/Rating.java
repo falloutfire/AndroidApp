@@ -1,4 +1,4 @@
-package com.yummy.maps.Entities;
+package com.yummy.FindAndRun.Entities;
 
 /**
  * Created by yablo on 24.03.2018.

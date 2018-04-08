@@ -1,4 +1,4 @@
-package com.yummy.maps.Activities.Fragments;
+package com.yummy.FindAndRun.Activities.Fragments;
 
 
 import android.os.Bundle;
@@ -7,7 +7,7 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 
-import com.yummy.maps.R;
+import com.yummy.FindAndRun.R;
 
 /**
  * A simple {@link Fragment} subclass.

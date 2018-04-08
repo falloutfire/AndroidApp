@@ -1,4 +1,4 @@
-package com.yummy.maps;
+package com.yummy.FindAndRun;
 
 import org.junit.Test;
 

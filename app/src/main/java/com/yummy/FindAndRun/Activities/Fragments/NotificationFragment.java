@@ -1,4 +1,4 @@
-package com.yummy.maps.Activities.Fragments;
+package com.yummy.FindAndRun.Activities.Fragments;
 
 
 import android.os.Bundle;
@@ -9,11 +9,11 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.ListView;
 
-import com.yummy.maps.Adapters.NotificationAdapter;
-import com.yummy.maps.Adapters.OrdersAdapter;
-import com.yummy.maps.Entities.Notification;
-import com.yummy.maps.PointFinder;
-import com.yummy.maps.R;
+import com.yummy.FindAndRun.Adapters.NotificationAdapter;
+import com.yummy.FindAndRun.Adapters.OrdersAdapter;
+import com.yummy.FindAndRun.Entities.Notification;
+import com.yummy.FindAndRun.PointFinder;
+import com.yummy.FindAndRun.R;
 
 import java.util.ArrayList;
 

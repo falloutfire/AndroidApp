@@ -1,4 +1,4 @@
-package com.yummy.maps;
+package com.yummy.FindAndRun;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;

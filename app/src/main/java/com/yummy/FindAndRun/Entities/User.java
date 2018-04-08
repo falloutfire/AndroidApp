@@ -1,4 +1,4 @@
-package com.yummy.maps.Entities;
+package com.yummy.FindAndRun.Entities;
 
 import java.util.ArrayList;
 

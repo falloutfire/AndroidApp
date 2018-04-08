@@ -1,4 +1,4 @@
-package com.yummy.maps.Activities;
+package com.yummy.FindAndRun.Activities;
 
 import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
@@ -6,8 +6,9 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.TextView;
 
-import com.yummy.maps.Entities.Order;
-import com.yummy.maps.R;
+import com.yummy.FindAndRun.Activities.HakatonActivity.MainActivity;
+import com.yummy.FindAndRun.Entities.Order;
+import com.yummy.FindAndRun.R;
 
 public class OrderDetailActivity extends AppCompatActivity {
 

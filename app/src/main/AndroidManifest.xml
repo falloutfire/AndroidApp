@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.yummy.maps">
+    package="com.yummy.FindAndRun">
 
     <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
     <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
@@ -12,7 +12,7 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.AppCompat.DayNight.DarkActionBar">
-        <activity android:name=".Activities.MainActivity" />
+        <activity android:name=".Activities.HakatonActivity.MainActivity" />
 
         <meta-data
             android:name="com.google.android.geo.API_KEY"
@@ -22,7 +22,7 @@
             android:value="@integer/google_play_services_version" />
 
         <activity
-            android:name=".Activities.MainBottomActivity"
+            android:name=".Activities.HakatonActivity.MainBottomActivity"
             android:label="@string/title_activity_main_bottom" />
         <activity android:name=".Activities.OrderDetailActivity" />
         <activity

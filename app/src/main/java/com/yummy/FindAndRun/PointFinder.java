@@ -1,9 +1,9 @@
-package com.yummy.maps;
+package com.yummy.FindAndRun;
 
 import android.os.AsyncTask;
 import android.util.Log;
 
-import com.yummy.maps.Entities.Order;
+import com.yummy.FindAndRun.Entities.Order;
 
 import org.json.JSONArray;
 import org.json.JSONException;

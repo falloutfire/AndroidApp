@@ -1,4 +1,4 @@
-package com.yummy.maps.Activities;
+package com.yummy.FindAndRun.Activities.HakatonActivity;
 
 import android.app.Activity;
 import android.app.Fragment;
@@ -13,15 +13,16 @@ import android.view.View;
 import android.widget.AdapterView;
 import android.widget.ListView;
 
-import com.yummy.maps.Activities.Fragments.NotificationFragment;
-import com.yummy.maps.Activities.Fragments.OrderFragment;
-import com.yummy.maps.Activities.Fragments.ProfileFragment;
-import com.yummy.maps.Adapters.NotificationAdapter;
-import com.yummy.maps.Adapters.OrdersAdapter;
-import com.yummy.maps.Entities.Notification;
-import com.yummy.maps.Entities.Order;
-import com.yummy.maps.PointFinder;
-import com.yummy.maps.R;
+import com.yummy.FindAndRun.Activities.Fragments.NotificationFragment;
+import com.yummy.FindAndRun.Activities.Fragments.OrderFragment;
+import com.yummy.FindAndRun.Activities.Fragments.ProfileFragment;
+import com.yummy.FindAndRun.Activities.OrderDetailActivity;
+import com.yummy.FindAndRun.Adapters.NotificationAdapter;
+import com.yummy.FindAndRun.Adapters.OrdersAdapter;
+import com.yummy.FindAndRun.Entities.Notification;
+import com.yummy.FindAndRun.Entities.Order;
+import com.yummy.FindAndRun.PointFinder;
+import com.yummy.FindAndRun.R;
 
 import java.util.ArrayList;
 import java.util.Random;

@@ -1,4 +1,4 @@
-package com.yummy.maps.Activities.Fragments;
+package com.yummy.FindAndRun.Activities.Fragments;
 
 
 import android.app.Fragment;
@@ -12,10 +12,10 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.ListView;
 
-import com.yummy.maps.Adapters.OrdersAdapter;
-import com.yummy.maps.Entities.Order;
-import com.yummy.maps.PointFinder;
-import com.yummy.maps.R;
+import com.yummy.FindAndRun.Adapters.OrdersAdapter;
+import com.yummy.FindAndRun.Entities.Order;
+import com.yummy.FindAndRun.PointFinder;
+import com.yummy.FindAndRun.R;
 
 import org.json.JSONArray;
 import org.json.JSONException;
