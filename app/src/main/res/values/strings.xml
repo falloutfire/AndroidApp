@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Find and Run</string>
+    <string name="google_maps_key">AIzaSyCnXG8F72enHy-OMLDI3EWHuZNLXes-nZY</string>
+    <string name="title_activity_main_bottom">Find and Run</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_orders">Заказы</string>
+    <string name="title_profile">Профиль</string>
+    <string name="title_activity_side_menu">SideMenuActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">FindAndRun.huinia@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_faq">FAQ</string>
+    <string name="title_history_orders">История заказов</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="UserName">Даниил Щербаков</string>
+    <string name="debit">2450 RUB</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="textBalance">Ваш баланс:</string>
+</resources>
